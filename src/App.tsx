@@ -2,7 +2,7 @@ import React from 'react';
 import {BrowserRouter as Router,Route,Switch} from 'react-router-dom';
 import { ThemeProvider } from "@material-ui/core/styles";
 import Theme from './styles/Theme';
-import Login from './components/Login';
+import {Login} from './components/Login';
 import Navbar from './components/Navbar';
 import Header from './components/Header';
 import Medical from './components/Medical';
