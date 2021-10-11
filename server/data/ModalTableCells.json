@@ -1,0 +1,112 @@
+[
+    {
+      "id": "action",
+      "numeric": false,
+      "disablePadding": true,
+      "label": "ACTION"
+    },
+    {
+      "id": "first_name",
+      "numeric": true,
+      "disablePadding": false,
+      "label": "FIRST NAME"
+    },
+    {
+      "id": "last_name",
+      "numeric": true,
+      "disablePadding": false,
+      "label": "LAST NAME"
+    },
+    {
+      "id": "dateof_birth",
+      "numeric": true,
+      "disablePadding": false,
+      "label": "DATE OF BIRTH"
+    },
+    {
+      "id": "member_id",
+      "numeric": true,
+      "disablePadding": false,
+      "label": "MEMBER ID"
+    },
+    {
+      "id": "address",
+      "numeric": true,
+      "disablePadding": false,
+      "label": "ADDRESS"
+    },
+    {
+      "id": "status",
+      "numeric": true,
+      "disablePadding": false,
+      "label": "STATUS"
+    },
+    {
+      "id": "effective_date",
+      "numeric": true,
+      "disablePadding": false,
+      "label": "EFFECTIVE DATE"
+    },
+    {
+      "id": "term_date",
+      "numeric": true,
+      "disablePadding": false,
+      "label": "TERM DATE"
+    },
+    {
+      "id": "company",
+      "numeric": true,
+      "disablePadding": false,
+      "label": "COMPANY"
+    },
+    {
+      "id": "lineof_business",
+      "numeric": true,
+      "disablePadding": false,
+      "label": "LINE OF BUSINESS"
+    },
+    {
+      "id": "plan_code",
+      "numeric": true,
+      "disablePadding": false,
+      "label": "PLAN CODE"
+    },
+    {
+      "id": "plan_desc",
+      "numeric": true,
+      "disablePadding": false,
+      "label": "PLAN DESCRIPTION"
+    },
+    {
+      "id": "contract_number",
+      "numeric": true,
+      "disablePadding": false,
+      "label": "CONTRACT NUMBER"
+    },
+    {
+      "id": "pbp_number",
+      "numeric": true,
+      "disablePadding": false,
+      "label": "PBP NUMBER"
+    },
+    { "id": "pcp", "numeric": true, "disablePadding": false, "label": "PCP" },
+    {
+      "id": "pcp_name",
+      "numeric": true,
+      "disablePadding": false,
+      "label": "PCP NAME"
+    },
+    {
+      "id": "ipa_code",
+      "numeric": true,
+      "disablePadding": false,
+      "label": "IPA CODE"
+    },
+    {
+      "id": "ipa_name",
+      "numeric": true,
+      "disablePadding": false,
+      "label": "IPA NAME"
+    }
+  ]
+  

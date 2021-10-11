@@ -1,0 +1,251 @@
+{
+  "id": "0001",
+  "dropdown": [
+    {
+      "name": "Provider",
+      "textlabel": "Provider",
+      "variant": "outlined",
+      "fullWidth": true,
+      "type": "dropdown",
+      "value": "",
+      "list": [{ "name": "PROVIDER_NOT_FOUND" }, { "name": "PROVIDER_FOUND" }],
+      "errEmptyMsg": "Please select provider",
+      "errState": false,
+      "errMinMsg": "Please enter min 3 char",
+      "errMaxMsg": "Please enter max 10 char"
+    },
+    {
+      "name": "authid",
+      "type": "number",
+      "textlabel": "Auth ID*",
+      "variant": "outlined",
+      "fullWidth": true,
+      "value": "",
+      "errEmptyMsg": "Please enter AuthID",
+      "errState": false,
+      "errMinMsg": "Please enter min 3 char",
+      "errMaxMsg": "Please enter max 10 char"
+    },
+    {
+      "name": "speciality",
+      "type": "number",
+      "textlabel": "Speciality*",
+      "variant": "outlined",
+      "fullWidth": true,
+      "value": "",
+      "errEmptyMsg": "Please enter speciality",
+      "errState": false,
+      "errMinMsg": "Please enter min 3 char",
+      "errMaxMsg": "Please enter max 10 char"
+    },
+    {
+      "name": "provider_status",
+      "type": "number",
+      "textlabel": "Provider Status*",
+      "variant": "outlined",
+      "fullWidth": true,
+      "value": "",
+      "errEmptyMsg": "Please enter provider status",
+      "errState": false,
+      "errMinMsg": "Please enter min 3 char",
+      "errMaxMsg": "Please enter max 10 char"
+    }
+  ],
+
+  "textfield": [
+    {
+      "name": "first_name",
+      "type": "text",
+      "textlabel": "First Name*",
+      "variant": "outlined",
+      "fullWidth": true,
+      "value": "",
+      "errEmptyMsg": "Please enter firstname",
+      "errState": false,
+      "errMinMsg": "Please enter min 3 char",
+      "errMaxMsg": "Please enter max 10 char"
+    },
+    {
+      "name": "last_name",
+      "type": "text",
+      "textlabel": "Last Name*",
+      "variant": "outlined",
+      "fullWidth": true,
+      "value": "",
+      "errEmptyMsg": "Please enter lastname",
+      "errState": false,
+      "errMinMsg": "Please enter min 3 char",
+      "errMaxMsg": "Please enter max 10 char"
+    },
+    {
+      "name": "organization",
+      "type": "text",
+      "textlabel": "Organization*",
+      "variant": "outlined",
+      "fullWidth": true,
+      "value": "",
+      "errEmptyMsg": "Please enter organization",
+      "errState": false,
+      "errMinMsg": "Please enter min 3 char",
+      "errMaxMsg": "Please enter max 10 char"
+    }
+  ],
+  "textfield1": [
+    {
+      "name": "address1",
+      "type": "text",
+      "textlabel": "Address1*",
+      "variant": "outlined",
+      "fullWidth": true,
+      "value": "",
+      "errEmptyMsg": "Please enter address1 ",
+      "errState": false,
+      "errMinMsg": "Please enter min 3 char",
+      "errMaxMsg": "Please enter max 10 char"
+    },
+    {
+      "name": "address2",
+      "type": "text",
+      "textlabel": "Address2*",
+      "variant": "outlined",
+      "fullWidth": true,
+      "value": "",
+      "errEmptyMsg": "Please enter address2",
+      "errState": false,
+      "errMinMsg": "Please enter min 3 char",
+      "errMaxMsg": "Please enter max 10 char"
+    },
+    {
+      "name": "city",
+      "type": "text",
+      "textlabel": "City*",
+      "variant": "outlined",
+      "fullWidth": true,
+      "value": "",
+      "errEmptyMsg": "Please enter city",
+      "errState": false,
+      "errMinMsg": "Please enter min 3 char",
+      "errMaxMsg": "Please enter max 10 char"
+    },
+    {
+      "name": "state",
+      "type": "text",
+      "textlabel": "State*",
+      "variant": "outlined",
+      "fullWidth": true,
+      "value": "",
+      "errEmptyMsg": "Please enter state",
+      "errState": false,
+      "errMinMsg": "Please enter min 3 char",
+      "errMaxMsg": "Please enter max 10 char"
+    }
+  ],
+  "textfield2": [
+    {
+      "name": "zipcode",
+      "type": "number",
+      "textlabel": "Zip*",
+      "variant": "outlined",
+      "fullWidth": true,
+      "value": "",
+      "errEmptyMsg": "Please enter zipcode",
+      "errState": false,
+      "errMinMsg": "Please enter min 3 char",
+      "errMaxMsg": "Please enter max 10 char"
+    },
+    {
+      "name": "phone_number",
+      "type": "tel",
+      "textlabel": "Phone Number*",
+      "variant": "outlined",
+      "fullWidth": true,
+      "value": "",
+      "errEmptyMsg": "Please enter phonenumber",
+      "errState": false,
+      "errMinMsg": "Please enter min 10 char",
+      "errMaxMsg": "Please enter max 10 char"
+    },
+    {
+      "name": "fax_number",
+      "type": "number",
+      "textlabel": "Fax Number*",
+      "variant": "outlined",
+      "fullWidth": true,
+      "value": "",
+      "errEmptyMsg": "Please enter faxnumber",
+      "errState": false,
+      "errMinMsg": "Please enter min 10 char",
+      "errMaxMsg": "Please enter max 10 char",
+      "errmsg": "Please Enter valid FaxNumber"
+    }
+  ],
+  "textfield3": [
+    {
+      "name": "contact_name",
+      "type": "text",
+      "textlabel": "Contact Name*",
+      "variant": "outlined",
+      "fullWidth": true,
+      "value": "",
+      "errEmptyMsg": "Please enter contactname",
+      "errState": false,
+      "errMinMsg": "Please enter min 3 char",
+      "errMaxMsg": "Please enter max 10 char"
+    },
+    {
+      "name": "contact_phone",
+      "type": "tel",
+      "textlabel": "Contact Phone*",
+      "variant": "outlined",
+      "fullWidth": true,
+      "value": "",
+      "errEmptyMsg": "Please enter contactphone",
+      "errState": false,
+      "errMinMsg": "Please enter min 10 char",
+      "errMaxMsg": "Please enter max 10 char"
+    }
+  ],
+  "radio": [
+    {
+      "name": "provider_service",
+      "type": "radio",
+      "textlabel": "Requesting Servicing Provider",
+      "variant": "outlined",
+      "fullWidth": true,
+
+      "list": [{ "name": "Yes" , "check":false}, { "name": "No" , "check":false}]
+    },
+
+    {
+      "name": "request_type",
+      "textlabel": "Request Type",
+      "variant": "outlined",
+      "fullWidth": true,
+      "type": "dropdown",
+      "list": [
+        { "name": "Service Request" },
+        { "name": "InPatient" },
+        { "name": "Medication" }
+      ]
+    },
+    {
+      "name": "place_of_service",
+      "textlabel": "Place of Service",
+      "variant": "outlined",
+      "fullWidth": true,
+      "type": "dropdown",
+      "list": [{ "name": "11-Hospital" }, { "name": "21-Hospital" }]
+    }
+  ],
+
+  "authorization": [
+    {
+      "name": "authorization_urgency",
+      "textlabel": "Select Authorization Urgency",
+      "variant": "outlined",
+      "fullWidth": true,
+      "type": "radio",
+      "list": [{ "name": "Standard" , "check":false}, { "name": "Expedited" , "check":false}]
+    }
+  ]
+}

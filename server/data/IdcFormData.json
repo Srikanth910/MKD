@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "idccodes",
+      "textlabel": "IDC Codes",
+      "variant": "outlined",
+      "fullWidth": true,
+      "required": true,
+      "type": "text"
+    },
+    {
+      "id": 2,
+      "name": "description",
+      "textlabel": "Diagnosis Description",
+      "variant": "outlined",
+      "fullWidth": true,
+      "required": false,
+      "type": "text"
+    }
+  ]
+  

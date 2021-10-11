@@ -1,0 +1,162 @@
+[
+    {
+      "name": "Npi",
+      "textlabel": "NPI ID",
+      "variant": "outlined",
+      "fullWidth": true,
+      "required": false
+    },
+    {
+      "name": "License",
+      "textlabel": "License",
+      "variant": "outlined",
+      "fullWidth": true,
+      "required": false
+    },
+    {
+      "name": "Firtname",
+      "textlabel": "First Name",
+      "variant": "outlined",
+      "fullWidth": true,
+      "required": true
+    },
+    {
+      "name": "LastName",
+      "textlabel": "Last Name",
+      "variant": "outlined",
+      "fullWidth": true,
+      "required": true
+    },
+    {
+      "name": "Organization",
+      "textlabel": "Organization/Facility",
+      "variant": "outlined",
+      "fullWidth": true,
+      "required": false
+    },
+    {
+      "name": "street",
+      "textlabel": "Street Address",
+      "variant": "outlined",
+      "fullWidth": true,
+      "required": true
+    },
+    {
+      "name": "City",
+      "textlabel": "City",
+      "variant": "outlined",
+      "fullWidth": true,
+      "required": true
+    },
+    {
+      "name": "state",
+      "textlabel": "State",
+      "variant": "outlined",
+      "fullWidth": true,
+      "required": true
+    },
+    {
+      "name": "Zip",
+      "textlabel": "Zip",
+      "variant": "outlined",
+      "fullWidth": true,
+      "required": true
+    },
+  
+    {
+      "name": "Phone",
+      "textlabel": "Phone ",
+      "variant": "outlined",
+      "fullWidth": true,
+      "required": true
+    },
+    {
+      "name": "fax_number",
+      "textlabel": "Fax*",
+      "variant": "outlined",
+      "fullWidth": true,
+      "required": true,
+      "errmsg": "Plese Enter Valid Fax Number"
+    },
+    {
+      "name": "Speciality",
+      "textlabel": "Speciality",
+      "variant": "outlined",
+      "fullWidth": false,
+      "type": "Dropdown",
+      "list": [
+        { "name": "speciality1" },
+        { "name": "speciality2" },
+        { "name": "speciality3" }
+      ]
+    },
+    {
+      "name": "LineOfbussiness",
+      "textlabel": "Line OF Bussiness",
+      "variant": "outlined",
+      "fullWidth": true,
+      "required": false,
+      "type": "Dropdown",
+      "list": [{ "name": "business1" }, { "name": "business2" }]
+    },
+  
+    {
+      "name": "Gender",
+      "textlabel": "Gender :",
+      "variant": "outlined",
+      "fullWidth": true,
+      "required": false,
+      "type": "Dropdown",
+      "list": [{ "name": "Male" }, { "name": "Female" }]
+    },
+    {
+      "name": "Language",
+      "textlabel": "Language",
+      "variant": "outlined",
+      "fullWidth": true,
+      "required": false,
+      "type": "Dropdown",
+      "list": [{ "name": "English" }, { "name": "French" }]
+    },
+    {
+      "name": "Fastfaxid",
+      "textlabel": "Fast fax ID",
+      "variant": "outlined",
+      "fullWidth": true,
+      "required": false
+    },
+  
+    {
+      "name": "Dea",
+      "textlabel": "DEA",
+      "variant": "outlined",
+      "fullWidth": true,
+      "required": true
+    },
+  
+    {
+      "name": "Type",
+      "textlabel": "Type",
+      "variant": "outlined",
+      "fullWidth": true,
+      "required": true,
+      "type": "Dropdown",
+      "list": [{ "name": "English" }, { "name": "French" }]
+    },
+  
+    {
+      "name": "ContanctName",
+      "textlabel": "Contact Name",
+      "variant": "outlined",
+      "fullWidth": true,
+      "required": true
+    },
+    {
+      "name": "ContanctNo",
+      "textlabel": "Contact Number",
+      "variant": "outlined",
+      "fullWidth": true,
+      "required": true
+    }
+  ]
+  

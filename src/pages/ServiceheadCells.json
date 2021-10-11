@@ -1,0 +1,32 @@
+[
+  { "id": "1", "numeric": false, "disablePadding": true, "label": "ACTION" },
+  {
+    "id": "2",
+    "numeric": true,
+    "disablePadding": false,
+    "label": "PROVIDER NAME"
+  },
+  { "id": "3", "numeric": true, "disablePadding": false, "label": "NPI" },
+  { "id": "4", "numeric": true, "disablePadding": false, "label": "DEA " },
+  { "id": "5", "numeric": true, "disablePadding": false, "label": "SPECALITY" },
+  { "id": "6", "numeric": true, "disablePadding": false, "label": "NETWORK " },
+  { "id": "7", "numeric": true, "disablePadding": false, "label": "ADDRESS" },
+  {
+    "id": "8",
+    "numeric": true,
+    "disablePadding": false,
+    "label": "FAX NUMBER"
+  },
+  {
+    "id": "9",
+    "numeric": true,
+    "disablePadding": false,
+    "label": "PROVIDER TYPE "
+  },
+  {
+    "id": "10",
+    "numeric": true,
+    "disablePadding": false,
+    "label": "PROVIDER STATUS"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "name": "firstName",
+    "textlabel": "Member First Name*:",
+    "errState": false,
+    "variant": "outlined",
+    "fullWidth": true,
+    "errEmptyMsg": "Please Enter First Name",
+    "xs": 12,
+    "sm": 6,
+    "errMinMsg": "Please Enter min 3 char",
+    "errMaxMsg": "Please Enter max 10 char",
+    "value": ""
+  },
+  {
+    "name": "lastName",
+    "textlabel": "Member Last Name*:",
+    "errState": false,
+    "variant": "outlined",
+    "fullWidth": true,
+    "errEmptyMsg": "Please Enter Last Name",
+    "xs": 12,
+    "sm": 6,
+    "errMinMsg": "Please Enter min 3 char",
+    "errMaxMsg": "Please Enter max 10 char",
+    "value": ""
+  },
+  {
+    "name": "DateofBirth",
+    "type": "date",
+    "textlabel": "Date Of Birth*:",
+    "errState": false,
+    "variant": "outlined",
+    "fullWidth": true,
+    "errEmptyMsg": "Please Select Date of Birth",
+    "xs": 12,
+    "sm": 6,
+    "errMinMsg": "Please Enter min 3 char",
+    "errMaxMsg": "Please Enter max 10 char",
+    "value": ""
+  },
+  {
+    "name": "MemberID",
+    "type": "number",
+    "textlabel": "Member ID*:",
+    "errState": false,
+    "variant": "outlined",
+    "fullWidth": true,
+    "errEmptyMsg": "Please Enter Member ID",
+    "xs": 12,
+    "sm": 6,
+    "errMinMsg": "Please Enter min 3 char",
+    "errMaxMsg": "Please Enter max 10 char",
+    "value": ""
+  }
+]

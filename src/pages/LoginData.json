@@ -1,0 +1,29 @@
+[
+  {
+    "name": "UserName",
+    "textlabel": "Username*:",
+    "errState": false,
+    "variant": "outlined",
+    "fullWidth": true,
+    "errEmptyMsg": "Please enter user name",
+    "xs": 12,
+    "sm": 6,
+    "errMinMsg": "Please enter min 3 char",
+    "errMaxMsg": "Please enter max 10 char",
+    "value": ""
+  },
+  {
+    "name": "Password",
+    "textlabel": "Password*:",
+    "errState": false,
+    "type": "password",
+    "variant": "outlined",
+    "fullWidth": true,
+    "errEmptyMsg": "Please enter password",
+    "xs": 12,
+    "sm": 6,
+    "errMinMsg": "Please enter min 3 char",
+    "errMaxMsg": "Please enter max 10 char",
+    "value": ""
+  }
+]

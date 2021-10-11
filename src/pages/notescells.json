@@ -1,0 +1,11 @@
+[
+  { "id": "1", "numeric": false, "disablePadding": true, "label": "ACTION" },
+  { "id": "2", "numeric": true, "disablePadding": false, "label": "NOTE TEXT" },
+  { "id": "3", "numeric": true, "disablePadding": false, "label": "LAST NAME" },
+  {
+    "id": "4",
+    "numeric": true,
+    "disablePadding": false,
+    "label": "DATE OF BIRTH"
+  }
+]
